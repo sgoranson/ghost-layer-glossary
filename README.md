@@ -31,7 +31,11 @@ This repo is designed for remixing, referencing, or ignoring entirely. If the la
 |
 ## Attribution
 
-Originally developed in dialogue with GPT-4 via ChatGPT Plus, May 2025.  
+ 
 Posted by [sgoranson](https://news.ycombinator.com/user?id=sgoranson).  
 License: MIT / CC0—do whatever you want with it, but if you build on it, I'd love to know.
+
+🪨 Laid down in May 2025.  
+By a human. In full awareness of silence.  
+Not performance. Placement.
 
